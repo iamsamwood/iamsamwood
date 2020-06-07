@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Sam Wood</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+			<header id="header">
+				<a href="#" class="image avatar"><img src="http://s.gravatar.com/avatar/aa975917c25a92b435387bbfd06c34d2?s=200" alt="" /></a>
+				<h1><strong>I am Sam Wood</strong>.<br />
+			</header>
+			<div id="main">
+					<section id="one">
+						<header class="major">
+							<h2><b>Neo</b>&bullet;<i>philiac</i>. [n]<h3><blockquote>“The trait of being excited and pleased by novelty...”<br>&mdash;The New Hacker's Dictionary</blockquote></h3></h2>
+						</header>
+						<p>January 22, 2016. Mountain View, CA.</p>
+						<p>Hello! I strive for meaningful impact through invention and the application of transformative technology.   I’m presently a distributed systems researcher, software engineer, entrepreneur, DJ, husband, and father. My active work topics include mesh networking, cryptocurrencies, and nondualism philosophy.</p>
+						<p>I received my B.S. in Computer Science from UC San Diego, cum laude, with a focus on web application development and novel database frameworks. I received my M.S. in Computer Engineering from UC Santa Cruz (<a href="https://ccrg.soe.ucsc.edu">CCRG lab</a>), and <a href="SamWood-MastersThesis.pdf">my thesis</a> details a novel network coding routing and caching system for delay tolerant networks. Under the DARPA <a href="http://arstechnica.com/information-technology/2013/09/darpa-reinvents-peer-to-peer-for-battlefield-with-tactical-torrents/">CBMEN</a> program I authored several peer-reviewed papers that describe novel algorithms for communication in information centric networks, which were successfully implemented and evaluated in field demonstrations. I have a history of leading small teams to deliver high risk, high reward projects under short time frames. I have previously worked for Yahoo! (Strategic Data Solutions), Apple (iTunes Music Store), SRI International (<a href="http://www.csl.sri.com">Computer Science Laboratory</a>), and Tesla Motors. I have also worked for several smaller startups, including an IT company in Bangalore India in 2009.
+						<p>I hold a 2nd degree black belt in Shaolin Kempo and actively practice yoga. My <a href="https://en.wikipedia.org/wiki/Erdős_number">Erdős number</a> is 4 [1]. I occasionally run event production and DJ for family gatherings and <a href="http://www.clubconscious.org">ecstatic</a> <a href="http://www.clubconscious.org">dance</a> within the Bay Area. I have volunteered for the Town of Los Altos Hills emergency preparedness and disaster response team. My ham radio call sign is KG6HMQ.
+						<br/>
+						<br/>
+						[1] Via <a herf="https://users.soe.ucsc.edu/~avg/">Allen Van Gelder</a>, Jeff Ullman, and Ron Graham.
+						<br/>
+						<center>
+						<a class="twitter-timeline" href="https://twitter.com/iamsamwood" data-widget-id="690320304678113280">Tweets by @iamsamwood</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</center>
+						<br/>
+					</section>
+					<section id="two">
+						<h2>Previously Involved With</h2>
+						<ul>
+							<li><a href="https://github.com/SRI-CSL/ENCODERS">ENCODERS (DARPA <a href="http://arstechnica.com/information-technology/2013/09/darpa-reinvents-peer-to-peer-for-battlefield-with-tactical-torrents/">CBMEN</a>)</a></li>
+							<li><a href="https://users.soe.ucsc.edu/~avg/EFL/">Quantified Boolean Formula Preprocessing</a> (developed hiqqer3, winner of <a href="http://qbf.satisfiability.org/gallery/">QBFGallery 2014</a> preprocessing competition, see <a href="sbwood-efl-report.pdf">report</a>).</li>
+							<li><a href="https://gnet.soe.ucsc.edu/">Genome Networking</a> (see unpublished <a href="deltagenome.pdf">paper</a>)</li>
+							<li><a href="http://forward.ucsd.edu">FORWARD</a>, <a href="http://app2you.com/forward/">app2you</a></li>
+						</ul>
+					</section>
+					<section id="three">
+						<h2>Publications</h2>
+						<center>
+						<iframe height="400" width="600" style="max-width: 100%; min-width: 180px;" src="https://docs.google.com/document/d/1sfbvOYR_OHdTStdqJRte2QHFWQVJVP6uwSdRb7vqzSQ/pub?embedded=true"></iframe>
+						</center>
+						<br/>
+						<p>View my <a href="https://scholar.google.com/citations?hl=en&user=YJf1HOwAAAAJ">Google Scholar <i class="ai ai-google-scholar"></i></a>.</p>
+					</section>
+				</div>
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/iamsamwood" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://github.com/iamsamwood" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://www.linkedin.com/in/iamsamwood" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+					<li><a href="https://medium.com/@iamsamwood" class="icon fa-medium"><span class="label">Medium</span></a></li>
+					<li><a href="mailto:iamsamwood@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Sam Wood</li>
+				</ul>
+			</footer>
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72788265-1', 'auto');
+  ga('send', 'pageview');
+
+			</script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+	</body>
+</html>
