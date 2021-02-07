@@ -2307,3 +2307,18 @@ body.is-touch .poptrox-popup .closer {
     line-height: 2.25em;
     margin-left: 0;
     padding-left: 0; } }
+
+.user {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.one {
+  background-image: url('/dream.jpg');
+}
