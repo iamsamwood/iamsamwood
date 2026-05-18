@@ -12,16 +12,10 @@ Co-founder & CTO at [Luther Systems](https://luthersystems.com), building [Insid
 
 ### Selected public work at Luther
 
-**Agentic cloud infrastructure — [InsideOut](https://insideout.luthersystems.com/)**
-
-- [insideout-claude-code](https://github.com/luthersystems/insideout-claude-code) — Claude Code plugin: design, price, generate Terraform, deploy
+**[InsideOut](https://insideout.luthersystems.com/)** — agentic cloud infrastructure
 - [insideout-agent-skills](https://github.com/luthersystems/insideout-agent-skills) — portable agent skills for Claude Code, Cursor, Kiro, and 30+ tools
 - [insideout-terraform-presets](https://github.com/luthersystems/insideout-terraform-presets) — standard Terraform modules composed by InsideOut
-- [insideout-power](https://github.com/luthersystems/insideout-power) — Kiro IDE plugin for AWS/GCP infra design
 
-**Process automation platform**
-
-- [elps](https://github.com/luthersystems/elps) ★ — embedded Lisp interpreter; sandboxed, transactional DSL for deterministic business logic over distributed state
+**[Luther Enterprise](https://enterprise.luthersystems.com)** — process automation platform
+- [elps](https://github.com/luthersystems/elps) — embedded Lisp interpreter; sandboxed, transactional DSL for deterministic business logic over distributed state
 - [sandbox](https://github.com/luthersystems/sandbox) — end-to-end "hello world" on the Luther platform
-- [cross-department-claims-settlement](https://github.com/luthersystems/cross-department-claims-settlement) — claims workflow case study
-- [docs](https://github.com/luthersystems/docs) — Luther platform documentation
