@@ -18,14 +18,14 @@ Local PDF mirror of Sam Wood's publications. Full list at [Google Scholar](https
 | [ICEMAN_Architecture.pdf](ICEMAN_Architecture.pdf) | ICEMAN: A System for Efficient, Robust and Secure Situational Awareness at the Network Edge | 2013 | IEEE MILCOM |
 | [ICEMAN_LNCS_Festschrift_2015.pdf](ICEMAN_LNCS_Festschrift_2015.pdf) | ICEMAN: A Practical Architecture for Situational Awareness at the Network Edge | 2015 | Springer LNCS Festschrift |
 | [Evaluation_Delay_Tolerant_ICN_ICUFN_2015.pdf](Evaluation_Delay_Tolerant_ICN_ICUFN_2015.pdf) | Evaluation of a Delay-tolerant ICN Architecture | 2015 | IEEE ICUFN |
+| [AIM_UMAP_2014.pdf](AIM_UMAP_2014.pdf) | Adaptive Interest Modeling Enables Proactive Content Services at the Network Edge | 2014 | UMAP Workshops (CEUR Vol-1181) |
 
 ### Not mirrored (paywalled, link only)
 
-- **SOCRATIC: A Social Approach to Network Coding Rate Control** — IEEE GLOBECOM 2014. [IEEE Xplore](https://ieeexplore.ieee.org/document/7036835)
-- **Network coding for content-based intermittently connected emergency networks** — MobiCom 2013. [ACM](https://dl.acm.org/doi/10.1145/2500423.2504582)
-- **Adaptive interest modeling improves content services at the network edge** — IEEE MILCOM 2014.
-- **Adaptive Interest Modeling Enables Proactive Content Services at the Network Edge** — UMAP Workshops 2014.
-- **Reliable Dissemination of Large Objects using Network Coding** — (Joy, Yu, Gerla, Wood, Mathewson, Stehr).
+- **SOCRATIC: A Social Approach to Network Coding Rate Control** — IEEE GLOBECOM 2014. DOI: [10.1109/GLOCOM.2014.7036772](https://doi.org/10.1109/GLOCOM.2014.7036772)
+- **Network coding for content-based intermittently connected emergency networks** — ACM MobiCom 2013. DOI: [10.1145/2500423.2504582](https://doi.org/10.1145/2500423.2504582)
+- **Adaptive interest modeling improves content services at the network edge** — IEEE MILCOM 2014. [DBLP entry](https://dblp.org/rec/conf/milcom/LiCAASTKMW14)
+- **Reliable Dissemination of Large Objects using Network Coding** — (Joy, Yu, Gerla, Wood, Mathewson, Stehr). Unpublished / no DOI found.
 
 ## US Patents
 
