@@ -1,12 +1,12 @@
 ### Hi, I'm Sam
 
-Co-founder & CTO at [Luther Systems](https://luthersystems.com), building [InsideOut](https://insideout.luthersystems.com/) — an agentic cloud infrastructure builder that turns application requirements into production-grade cloud deployments and safely manages them.
+Co-founder & CTO at [Luther Systems](https://luthersystems.com), building [InsideOut](https://insideout.luthersystems.com/) — an agentic cloud infrastructure builder that turns application requirements into production-grade cloud deployments and safely manages them. Featured on [AWS Kiro TV](https://www.youtube.com/watch?v=6iZdPOt290E).
 
-- Currently: production-grade AI agents & agentic infrastructure
-- Earlier: SRI (DARPA Brandeis / CBMEN), Tesla (fleet ops), Apple (iTunes graph analytics)
-- Research: 20+ publications, 4 US patents, Erdős ≤ 4
+- **Currently:** production-grade AI agents & agentic infrastructure
+- **Earlier:** SRI International (DARPA [Brandeis](https://www.darpa.mil/news/2015/brandeis-program-online-privacy), [CBMEN](https://www.darpa.mil/research/programs/content-based-mobile-edge-networking) — see [Ars Technica](https://arstechnica.com/information-technology/2013/09/darpa-reinvents-peer-to-peer-for-battlefield-with-tactical-torrents/)), Tesla (fleet ops & NHTSA reporting), Apple (iTunes graph analytics)
+- **Research:** 20+ publications · 4 US patents · [Erdős number ≤ 4](https://en.wikipedia.org/wiki/Erdős_number)
 
-[iamsamwood.com](https://www.iamsamwood.com) · [LinkedIn](https://www.linkedin.com/in/iamsamwood)
+[iamsamwood.com](https://www.iamsamwood.com) · [LinkedIn](https://www.linkedin.com/in/iamsamwood) · [Google Scholar](https://scholar.google.com/citations?user=YJf1HOwAAAAJ) · [iamsamwood@gmail.com](mailto:iamsamwood@gmail.com)
 
 ---
 
@@ -19,3 +19,9 @@ Co-founder & CTO at [Luther Systems](https://luthersystems.com), building [Insid
 **[Luther Enterprise](https://enterprise.luthersystems.com)** — process automation platform
 - [elps](https://github.com/luthersystems/elps) — embedded Lisp interpreter; sandboxed, transactional DSL for deterministic business logic over distributed state
 - [sandbox](https://github.com/luthersystems/sandbox) — end-to-end "hello world" on the Luther platform
+
+---
+
+### Papers & patents
+
+Local PDF copies in [`papers/`](papers/). See [INDEX](papers/INDEX.md) for the full annotated list. Full publication list on [Google Scholar](https://scholar.google.com/citations?user=YJf1HOwAAAAJ).
