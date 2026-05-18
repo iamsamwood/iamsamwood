@@ -38,3 +38,4 @@ Local PDF mirror of Sam Wood's publications. Full list at [Google Scholar](https
 | [US11775479.pdf](US11775479.pdf) | US 11,775,479 | System and method for efficient and secure private similarity detection | 2023 | S. Wood, H. Kakavand |
 | [US11860822.pdf](US11860822.pdf) | US 11,860,822 | Immutable ledger with efficient and secure data destruction | 2024 | S. Wood, B. Matsuo, H. Kakavand |
 | [US11874827.pdf](US11874827.pdf) | US 11,874,827 | System and method for automatic, rapid, and auditable updates of digital contracts | 2024 | S. Wood, H. Kakavand |
+| [US20200111092_Financial_Derivative.pdf](US20200111092_Financial_Derivative.pdf) | US App. 16/672,386 (Pub. US20200111092A1) | Financial derivative smart contract execution platform, system and method | 2020 | S. Wood, H. Kakavand |
