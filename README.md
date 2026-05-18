@@ -22,6 +22,12 @@ Co-founder & CTO at [Luther Systems](https://luthersystems.com), building [Insid
 
 ---
 
+### Side projects
+
+- [Koii Media](https://www.koiimedia.com/) — iOS app: audio + workbook for *A Course In Miracles*
+
+---
+
 ### Papers & patents
 
 Local PDF copies in [`papers/`](papers/). See [INDEX](papers/INDEX.md) for the full annotated list. Full publication list on [Google Scholar](https://scholar.google.com/citations?user=YJf1HOwAAAAJ).
