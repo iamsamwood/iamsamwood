@@ -30,7 +30,7 @@ Co-founder & CTO at [Luther Systems](https://luthersystems.com), building [Insid
 
 ### Papers & patents
 
-Local PDF copies in [`papers/`](papers/). See [INDEX](papers/INDEX.md) for the full annotated list. Full publication list on [Google Scholar](https://scholar.google.com/citations?user=YJf1HOwAAAAJ).
+Local PDF copies and annotated index in [`papers/`](papers/). Full publication list on [Google Scholar](https://scholar.google.com/citations?user=YJf1HOwAAAAJ).
 
 ---
 
